@@ -12,7 +12,11 @@ Before you begin, make sure you have the following prerequisites:
 
    `pip install opencv-python pyautogui pytesseract keyboard`
 
-3. **Game Setup**: Ensure you have the NoxPlayer emulator running with the game open where you intend to use the script. Adjust the coordinates in the script to match the game's interface.
+3. **Game Setup**: Ensure you have the NoxPlayer emulator running with the game open where you intend to use the script.
+
+IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT
+**Adjust the coordinates in the script to match the game's interface.**
+IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT ! IMPORTANT
 
 ## Running the Script
 
