@@ -24,7 +24,7 @@ Follow these steps to run the provided Python script:
 
 ### 1. Script and Images
 
-- Place the Python script (`your_script_name.py`) in a directory on your computer. Additionally, you should have template images for different in-game elements such as rarity levels (`Pink.png`, `Red.png`, etc.). Make sure to place these images in the same directory as your script.
+- Place the Python script (`testv3.py`) in a directory on your computer. Additionally, you should have template images for different in-game elements such as rarity levels (`Pink.png`, `Red.png`, etc.). Make sure to place these images in the same directory as your script. Or you can just download as a zip and use that
 
 ### 2. Modify Coordinates
 
@@ -41,11 +41,11 @@ Follow these steps to run the provided Python script:
 
 - Open your command prompt or terminal, navigate to the directory where the script is located, and run the script using the following command:
 
-   `python your_script_name.py`
+   `python testv3.py`
 
 ### 4. Activate Game Window
 
-- The script will attempt to activate the NoxPlayer game window with the title specified in `GAME_WINDOW_TITLE`. Ensure that NoxPlayer is running and the game is open when you run the script.
+- The script will attempt to activate the NoxPlayer game window with the title specified in `NoxPlayer`. Ensure that NoxPlayer is running and the game is open when you run the script.
 
 ### 5. Execute Script
 
